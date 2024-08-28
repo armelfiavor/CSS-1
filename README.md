@@ -1,3 +1,3 @@
-This is my first CSS prject I ever done efficiently
+This is how to use media queries in  CSS
 
 Please ask any question if you have some.
